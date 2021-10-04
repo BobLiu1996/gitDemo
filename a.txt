@@ -1,2 +1,2 @@
 a in main
-bb in main
+aa or bb in main
